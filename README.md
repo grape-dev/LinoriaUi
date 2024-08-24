@@ -1,2 +1,2 @@
 # LinoriaUi
-Linoria Ui Lib
+Linoria Ui Lib - Credits to bluu for this
